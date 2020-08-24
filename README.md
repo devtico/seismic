@@ -1,1 +1,1 @@
-# sismic
+# Earthquake prediction through machine learning
